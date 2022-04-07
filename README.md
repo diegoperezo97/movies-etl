@@ -5,4 +5,4 @@
 * Amazing Prime has decided to fund a hackathon in order to motivate the team, have some fun, and engage with the local coding community. Giving participants a clean data set of movie data and asking them to guess the most popular films. Britta, a member of the Amazing Prime video team, has been assigned the duty of creating the hackathon datasets.
 
 ### Purpose
-* Britta will need to extract data from both sources, combine it into a single clean data set, and then import it into a SQL table.
+* Help Britta  extract data from both sources, combine it into a single clean data set, and then import it into a SQL table.
